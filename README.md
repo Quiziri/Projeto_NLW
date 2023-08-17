@@ -1,0 +1,1 @@
+Projeto criado para exibir streames e jogos que eu mais gosto de assistir e jogar.
